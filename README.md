@@ -1,1 +1,3 @@
-# workbench
+# Workbench
+
+Prototypes of various library ideas.
